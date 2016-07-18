@@ -3,6 +3,8 @@ Flip &mdash; flip your features
 
 [![Build Status](https://travis-ci.org/pda/flip.png)](https://travis-ci.org/pda/flip)
 
+Some change
+
 **Flip** provides a declarative, layered way of enabling and disabling application functionality at run-time.
 
 This gem optimizes for:
